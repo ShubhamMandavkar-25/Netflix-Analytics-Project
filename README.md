@@ -40,4 +40,4 @@ This project analyzes Netflix content and viewership trends to provide actionabl
 
 ## 👤 Author
 **Shubham Mandavkar**  
-Aspiring Data Analyst | Excel | Power BI | SQL | Python
+Aspiring Data Analyst | Excel | Power BI | SQL | Python | R Programming 
